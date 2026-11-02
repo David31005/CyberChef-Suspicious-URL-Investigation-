@@ -117,3 +117,25 @@ GitHub: https://github.com/David31005
 Cybersecurity Portfolio: https://github.com/David31005/cybersecurity-portfolio
 
 LinkedIn: https://www.linkedin.com/in/david-jeffries001
+
+---
+
+## Investigation Evidence
+
+### Evidence 1: URL Decoding
+
+![CyberChef URL Decoding Investigation](IMG_5263.jpeg)
+
+This screenshot documents the decoding of a simulated suspicious login URL using CyberChef.
+
+### Evidence 2: Base64 Decoding
+
+![CyberChef Base64 Investigation](IMG_5264.jpeg)
+
+This screenshot documents the decoding of a simulated account-verification message.
+
+## Full Investigation Report
+
+[Read the Security Investigation Report](incident_report.md)
+
+All evidence was generated using fictional training data.
